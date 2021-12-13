@@ -6,7 +6,6 @@ const range = document.querySelector('input[type=range]');
 const eBtn = square.querySelector('#e_btn');
 const circle = square.querySelector('#circle');
 
-
 function colorChange(){
 
 square.style.backgroundColor = text.value;
